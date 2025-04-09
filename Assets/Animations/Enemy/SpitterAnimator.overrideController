@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpitterAnimator
+  m_Controller: {fileID: 9100000, guid: b659a93698c6be04eb9d25934fbf1dc1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ea28880f3c432b74ba40f56c53f03139, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: ea28880f3c432b74ba40f56c53f03139, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: ab5bda48f8799bb4f84ab060e69f60a7, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: ab5bda48f8799bb4f84ab060e69f60a7, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 1e35373135394fa45852a3e55ba00889, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 1e35373135394fa45852a3e55ba00889, type: 3}
+  - m_OriginalClip: {fileID: 8794613062952905816, guid: 257e753645ba2954ca2439c671e5337b,
+      type: 3}
+    m_OverrideClip: {fileID: 7400002, guid: ae9ad6fb845fa9841918e44e215ef2f4, type: 3}

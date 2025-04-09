@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 550bfa77cb4a7564bb487e0c3c0d7bb4, type: 3}
+  m_Name: FireSkillSO
+  m_EditorClassIdentifier: 
+  timeLoad: 80
+  price: 100
+  quantity: 90
+  firePrefap: {fileID: 4467527518488229988, guid: bb3bf2b89e0477f4c8e7ed2807a7cbc8,
+    type: 3}
+  effectPrefap: {fileID: 3931177450939985666, guid: 1f5c6c7921734ff4c8652b35733bca5b,
+    type: 3}
+  dame: 50
+  timeEffect: 8
